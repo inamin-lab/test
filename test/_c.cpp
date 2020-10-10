@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Git repository test!\n");
+  printf("Git repository this is test!\n");
   printf("Git repository init!\n");
   printf("Git repository add!\n");
   printf("Git repository create branch!\n");
